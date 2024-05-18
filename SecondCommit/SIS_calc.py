@@ -117,7 +117,7 @@ def simulate_epidemics(N, k, beta, delta, days):
     return infected_count[-1], infected_count
 
 # Parameters
-N = 10000 # number of individuals
+N = 1000 # number of individuals
 k = 3 # number of links between individuals
 delta = 0.2 # recovery rate
 days = 500 # number of days (ie. number of events)
