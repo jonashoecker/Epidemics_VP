@@ -1,3 +1,10 @@
+"""
+            SIS Epidemology : N evolution plotting programm
+            Author : Jonas Hoecker
+            Email : jonas.hoecker@unifr.ch
+
+"""
+
 import matplotlib.pyplot as plt
 
 # File sets for two different networks
